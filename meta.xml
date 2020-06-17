@@ -1,6 +1,7 @@
 ﻿<meta>
 	
 	<script src="server.lua" />
-	<!-- <script src="client.lua" type="client" /> -->
+	<script src="client.lua" type="client" />
+	<file src="test_xml.xml" download = "false"/>
 	<oop>true</oop>
 </meta>
